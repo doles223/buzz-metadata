@@ -1,1 +1,17 @@
+{
+  "name": "BUZZ.AI",
+  "symbol": "BUZZ",
+  "description": "BUZZ.AI utility token.",
+  "image": "https://<doles223>.github.io/buzz-metadata/buzz-logo.png",
+  "extensions": { "website": "https://buzzingai.net" },
+  "tags": ["utility","buzz.ai"],
+  "decimals": 0,
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "files": [
+      { "uri": "https://<doles223>.github.io/buzz-metadata/buzz-logo.png", "type": "image/png" }
+    ]
+  },
+  "standard": "Fungible"
+}
 
